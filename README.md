@@ -1,2 +1,2 @@
-# Notes_RigidBodyKinematics
-Notes for RigidBodyKinematics
+# Notes for RigidBodyKinematics - https://www.coursera.org/learn/spacecraft-dynamics-kinematics
+
