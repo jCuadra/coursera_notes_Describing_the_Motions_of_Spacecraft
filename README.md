@@ -1,4 +1,4 @@
-#  RigidBodyKinematics  学习笔记
+#   Kinematics: Describing the Motions of Spacecraft  学习笔记
 
 
 
@@ -6,5 +6,5 @@
 
 老师个人主页：https://hanspeterschaub.info/
 
-
+知乎笔记：https://zhuanlan.zhihu.com/p/56422617
 
